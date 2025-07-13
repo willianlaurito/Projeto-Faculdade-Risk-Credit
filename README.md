@@ -16,7 +16,7 @@ O arquivo principal deste projeto é o `faculdade.ipynb`, que contém:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/willianlaurito/Estudos/.git
+   git clone https://github.com/willianlaurito/Projeto-Faculdade-Risk-Credit/.git
    ```
 
 2. Navegue até a pasta do projeto:
